@@ -1,4 +1,4 @@
-# 🛒 Analisis Penjualan Ritel (Retail Sales Analysis)
+# 🛒 Analisis Penjualan Ritel
 
 ## 📌 Gambaran Umum
 Proyek ini berfokus pada pemrosesan dan analisis data transaksi ritel untuk menghasilkan wawasan bisnis. Berawal dari data mentah hingga menjadi laporan yang terstruktur, proyek ini mendemonstrasikan proses end-to-end dalam membersihkan data, menangani nilai anomali (*outliers*), dan menyusun agregasi metrik penjualan.
