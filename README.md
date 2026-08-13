@@ -1,7 +1,7 @@
 # 🛒 Analisis Penjualan Ritel (Retail Sales Analysis)
 
 ## 📌 Gambaran Umum
-Proyek ini berfokus pada pemrosesan dan analisis data transaksi ritel untuk menghasilkan wawasan bisnis yang dapat ditindaklanjuti. Berawal dari data mentah hingga menjadi laporan yang terstruktur, proyek ini mendemonstrasikan proses end-to-end dalam membersihkan data, menangani nilai anomali (*outliers*), dan menyusun agregasi metrik penjualan.
+Proyek ini berfokus pada pemrosesan dan analisis data transaksi ritel untuk menghasilkan wawasan bisnis. Berawal dari data mentah hingga menjadi laporan yang terstruktur, proyek ini mendemonstrasikan proses end-to-end dalam membersihkan data, menangani nilai anomali (*outliers*), dan menyusun agregasi metrik penjualan.
 
 ## 🎯 Tujuan Proyek
 *   Membersihkan data transaksi historis dari format mentah menjadi dataset yang siap dianalisis.
@@ -11,8 +11,8 @@ Proyek ini berfokus pada pemrosesan dan analisis data transaksi ritel untuk meng
 ## 📂 Struktur Data
 Proyek ini menggunakan dua dokumen utama sebagai basis data dan pelaporan:
 
-1.  **`retail_practice_workbook (1).xlsx`** 
-    Berisi panduan proyek awal serta dataset mentah (`Data_Penjualan_Raw`) yang mencakup titik data seperti ID Pelanggan, Usia, Gender, Kategori Produk, Kuantitas, Harga Satuan, dan Total Belanja.
+1.  **`Retail Sales Raw.xlsx`** 
+    Berisi proyek awal serta dataset mentah (`Data_Penjualan_Raw`) yang mencakup data seperti ID Pelanggan, Usia, Gender, Kategori Produk, Kuantitas, Harga Satuan, dan Total Belanja.
 2.  **`Retail Sales Analysis.xlsx`** 
     Merupakan hasil akhir pengolahan data yang terbagi menjadi tiga *sheet* utama:
     *   **Ringkasan**: Ikhtisar eksekutif pengerjaan proyek.
